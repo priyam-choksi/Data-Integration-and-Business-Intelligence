@@ -1,0 +1,29 @@
+CurrencySK,CurrencyID,CurrencyCode,CurrencyName,CurrencyDescription,ModifiedDate
+1,1,USD,USD,US Dollar,3/31/2018
+2,2,AMD,AMD,Armenian Dram,3/31/2018
+3,3,AUD,AUD,Australian Dollar,3/31/2018
+4,4,THB,THB,Thai Baht,3/31/2018
+5,5,CAD,CAD,Canadian Dollar,3/31/2018
+6,6,DKK,DKK,Danish Krone,3/31/2018
+7,7,EUR,EUR,EURO,3/31/2018
+8,8,HKD,HKD,Hong Kong Dollar,3/31/2018
+9,9,INR,INR,Indian Rupee,3/31/2018
+10,10,ROL,ROL,Romanian Leu,3/31/2018
+11,11,MTL,MTL,Maltese Lira,3/31/2018
+12,12,TWD,TWD,Taiwan Dollar,3/31/2018
+13,13,BTN,BTN,Bhutan Ngultrum,3/31/2018
+14,14,PKR,PKR,Pakistan Rupee,3/31/2018
+15,15,RUB,RUB,Russian Ruble,3/31/2018
+16,16,SGD,SGD,Singapore Dollar,3/31/2018
+17,17,SEK,SEK,Swedish Krona,3/31/2018
+18,18,CHF,CHF,Swiss Franc,3/31/2018
+19,19,SIT,SIT,Slovenian Tolar,3/31/2018
+20,20,GBP,GBP,British Pound,3/31/2018
+21,21,KRW,KRW,South Korean Won,3/31/2018
+22,22,JPY,JPY,Japanese Yen,3/31/2018
+23,23,CNY,CNY,Renminbi Yuan,3/31/2018
+24,24,PLN,PLN,Polish Zloty,3/31/2018
+25,25,IRR,IRR,Iranian Rial,3/31/2018
+26,26,SYP,SYP,Syrian Pound,3/31/2018
+27,27,TMM,TMM,Turkmenistan Manat,3/31/2018
+28,28,KGS,KGS,Som,3/31/2018
